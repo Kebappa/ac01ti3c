@@ -39,8 +39,8 @@
     ## Licencja
      
     This project is released under the MIT Licence. See the bundled LICENSE file for details.
-    Ten projekt jest wypuszczony pod licencją MIT. 
-     
+    Ten projekt jest wypuszczony pod licencją MIT. zobacz zawarty w pakiecie pli LICENSE po szczegóły.
+    
     ## Author
      
     John Doe
